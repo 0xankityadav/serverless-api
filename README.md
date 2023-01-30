@@ -1,2 +1,2 @@
 # serverless-api
-REST API to which performs basic CRUD operations.
+REST API which performs basic CRUD operations.
